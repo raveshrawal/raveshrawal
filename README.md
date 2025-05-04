@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Ravesh Rawal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=JAVA+%7C+DSA+%7C+C%2B%2B+%7C+JS+%7C+WORDPRESS;HTML+%7C+CSS+%7C+SEO+%7C+PHP+%7C+SQL+%7C+DBMS;&center=true&width=600&height=50">
   </a>
 </p>
