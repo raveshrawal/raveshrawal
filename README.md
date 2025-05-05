@@ -12,108 +12,84 @@
 </div>
 
 <h2 id="️-my-skills">🛠️ My Skills</h2>
-<h3 id="-programming-languages">👉 Programming languages</h3>
+
+<h3 id="-programming-languages">👉 Programming Languages</h3>
 <p align="left"> 
-    
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black">
-   </a>
-   
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&amp;logoColor=white">
-  </a>
-   
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white">
-  </a>
-   
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&amp;logoColor=white">
-  </a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
 </p>
+
 <h3 id="-frontend-development">👉 Frontend Development</h3>
-<p align="left"> 
-    
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&amp;logoColor=white">
-  </a>   
-   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&amp;logoColor=white">
-  </a> 
-    
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white">
-  </a>
-</p>
-<h3 id="-databases--cloud-hosting">👉 Databases &amp; Cloud Hosting</h3>
 <p align="left">
-   
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&amp;llogo=mysql&amp;logoColor=white"></a>
-   
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white"></a>
-   
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white"></a>
-   
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&amp;logoColor=white"></a>  
-   
-    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white"></a>
- </p>
-<h3 id="graphic-designing">👉Graphic Designing</h3>
-<p align="left">
-   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&amp;logo=adobeillustrator&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&amp;logo=adobeindesign&amp;logoColor=white"> 
-  </a> 
-     
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&amp;logo=adobelightroom&amp;logoColor=white">
-  </a>
-    
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&amp;logo=adobepremierepro&amp;logoColor=white">
-  </a>
-     
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&amp;logo=Canva&amp;logoColor=white">
-  </a>
- </p>
-<h3 id="-software--tools">👉 Software &amp; Tools</h3>
-<p>
-   
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"></a>
-   
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
-   
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white">
+  <img alt="SEO" src="https://img.shields.io/badge/SEO-%23007ACC.svg?logo=searchengineland&logoColor=white">
 </p>
-<br>
+
+<h3 id="-databases-cloud">👉 Databases & Cloud Hosting</h3>
+<p align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  <img alt="DBMS" src="https://img.shields.io/badge/DBMS-%236C3483.svg?logo=databricks&logoColor=white">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&logoColor=white">
+</p>
+
+<h3 id="-graphic-designing">👉 Graphic Designing</h3>
+<p align="left">
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?logo=adobeillustrator&logoColor=white">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%23007ACC.svg?logo=adobephotoshop&logoColor=white">
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?logo=adobepremierepro&logoColor=white">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
+</p>
+
+<h3 id="-software-tools">👉 Software & Tools</h3>
+<p align="left">
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=googlecolab&logoColor=black">
+  <img alt="Codepen" src="https://img.shields.io/badge/Codepen-%23000000.svg?logo=codepen&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2300C853.svg?logo=googlesheets&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=stackoverflow&logoColor=white">
+</p>
+
+<h3 id="-interpersonal-skills">👉 Interpersonal Skills</h3>
+<p align="left">
+  <img alt="Strategic Planning" src="https://img.shields.io/badge/Strategic%20Planning-%234CAF50.svg?logo=asana&logoColor=white">
+  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem%20Solving-%23f39c12.svg?logo=hackerrank&logoColor=white">
+  <img alt="Creativity" src="https://img.shields.io/badge/Creativity-%23e91e63.svg?logo=adobe&logoColor=white">
+  <img alt="Continuous Learning" src="https://img.shields.io/badge/Continuous%20Learning-%2300C4CC.svg?logo=coursera&logoColor=white">
+</p>
+
+<h3 id="-ongoing-learning">👉 Ongoing Learning</h3>
+<p align="left">
+  <img alt="Ethical Hacking" src="https://img.shields.io/badge/Ethical%20Hacking-%23007396.svg?logo=kali-linux&logoColor=white">
+  <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-%23e91e63.svg?logo=parrot&logoColor=white">
+</p>
+
+<h3 id="-interests-hobbies">👉 Interests & Hobbies</h3>
+<p align="left">
+  <img alt="Photography" src="https://img.shields.io/badge/Photography-%23e67e22.svg?logo=google-photos&logoColor=white">
+  <img alt="Graphic Designing" src="https://img.shields.io/badge/Graphic%20Designing-%23FF9A00.svg?logo=canva&logoColor=white">
+  <img alt="Video Editing" src="https://img.shields.io/badge/Video%20Editing-%23FF0000.svg?logo=adobepremierepro&logoColor=white">
+  <img alt="DIY Projects" src="https://img.shields.io/badge/DIY%20Projects-%23F7DF1E.svg?logo=raspberrypi&logoColor=black">
+</p>
+
+<h3 id="-languages-known">👉 Languages Known</h3>
+<p align="left">
+  <img alt="English" src="https://img.shields.io/badge/English-%2300C4CC.svg?logo=googletranslate&logoColor=white">
+  <img alt="Hindi" src="https://img.shields.io/badge/Hindi-%23f39c12.svg?logo=googletranslate&logoColor=white">
+  <img alt="Punjabi" src="https://img.shields.io/badge/Punjabi-%234CAF50.svg?logo=googletranslate&logoColor=white">
+</p>
+
 <hr>
+
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
   <a href="https://rawalravesh.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"></a>
