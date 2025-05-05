@@ -127,6 +127,17 @@
   <li>Led the transformation of exam procedures for an online test series portal, enhancing access to quality educational resources for IIT-JEE, NEET, and NDA aspirants.</li>
   <li>Automated exam processes from creation to result generation, prioritizing the analysis of student performance to support underprivileged students with top-tier exam preparation resources.</li>
 </ul>
+
+<h3 id="cueventmanagement">🎓 CU Event Management | Front-End Developer</h3>
+<p><strong>January 2023 – Present</strong></p>
+<ul>
+  <li>Led front-end development and PHP integration for an event management platform at CU.</li>
+  <li>Addressed fragmented event information and improved team coordination.</li>
+  <li>Enhanced student engagement through accessible and inclusive design.</li>
+  <li>Streamlined event information and improved team coordination, resulting in better engagement.</li>
+</ul>
+
+
 <h3 id="bitcoin">💰 Bitcoin Price Prediction Using Facebook Prophet</h3>
 <p><strong>August 2023</strong></p>
 <p>This repository contains a Jupyter Notebook for forecasting Bitcoin prices using Facebook Prophet. The notebook guides you through the process of loading data, visualizing trends, preparing the data, training a forecasting model, and exporting predictions.</p>
