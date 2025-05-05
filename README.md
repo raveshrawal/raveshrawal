@@ -89,6 +89,97 @@
 </p>
 
 <hr>
+<h2 id="projects">📂 Projects</h2>
+
+
+<h3 id="progiez">🚀 Progiez.com | Co-Founder</h3>
+<p><strong>January 2022 – Present</strong></p>
+<ul>
+  <li>Built and scaled an educational platform reaching 1.3M+ views and 221K users in the past year.</li>
+  <li>Enhanced SEO and integrated analytics to increase user engagement and optimize marketing.</li>
+</ul>
+<p>[View Project](https://progiez.com)</p>
+
+<h3 id="campusdine">🍔 CampusDine.com | Full-Stack Developer</h3>
+<p><strong>March 2025 – Present</strong></p>
+<ul>
+  <li>Developing a food ordering system at IIT Delhi enabling students to pre-order, dine in, or get food packed.</li>
+  <li>Built features like menu browsing, real-time order tracking, vendor dashboards, and payment integration.</li>
+</ul>
+<p>[View Project](https://campusdine.com)</p>
+
+<h3 id="tristay">🏡 TriStay.in | Web Developer</h3>
+<p><strong>December 2024 – Present</strong></p>
+<ul>
+  <li>Created a rental listing platform for Tricity (Chandigarh, Mohali, Panchkula), helping users find flats, PGs, and rooms.</li>
+  <li>Focused on local SEO and smart categorization for better property discovery.</li>
+</ul>
+<p>[View Project](https://tristay.in)</p>
+
+<h3 id="custore">🛒 CU Store</h3>
+<p><strong>May 2024</strong></p>
+<p>CU Store provides essentials to students of Chandigarh University, helping them make life easier while on campus, 24 hours a day.</p>
+<p>[View Project](https://store.apnavista.com/)</p>
+
+<h3 id="testlab">🧪 TESTLAB | Front-End Developer</h3>
+<p><strong>August 2023 – October 2023</strong></p>
+<ul>
+  <li>Led the transformation of exam procedures for an online test series portal, enhancing access to quality educational resources for IIT-JEE, NEET, and NDA aspirants.</li>
+  <li>Automated exam processes from creation to result generation, prioritizing the analysis of student performance to support underprivileged students with top-tier exam preparation resources.</li>
+</ul>
+<h3 id="bitcoin">💰 Bitcoin Price Prediction Using Facebook Prophet</h3>
+<p><strong>August 2023</strong></p>
+<p>This repository contains a Jupyter Notebook for forecasting Bitcoin prices using Facebook Prophet. The notebook guides you through the process of loading data, visualizing trends, preparing the data, training a forecasting model, and exporting predictions.</p>
+<p>[View Project](https://github.com/raveshrawal/Bitcoin-Price-Prediction)</p>
+
+<h3 id="stock">📈 Google & Tesla Stock Price Prediction</h3>
+<p><strong>July 2023</strong></p>
+<p>This repository includes two projects focused on stock price prediction:</p>
+<ul>
+  <li>📉 Tesla Stock Price Prediction using Linear Regression</li>
+  <li>🤖 Google Stock Price Prediction using LSTM (Deep Learning)</li>
+</ul>
+<p>[View Project](https://github.com/raveshrawal/Stock-Trend-Predication)</p>
+
+<h3 id="weather">☀️ Weather App</h3>
+<p><strong>June 2023</strong></p>
+<p>A simple Android weather application that allows users to search for the weather of any city using the OpenWeather API.</p>
+<p>[View Project](https://github.com/raveshrawal/Weather_App)</p>
+
+<h3 id="linkedin">🔗 LinkedIn Invitation Acceptor Extension</h3>
+<p><strong>April 2023</strong></p>
+<p>This Chrome extension automates the process of accepting LinkedIn invitations. Users can choose to accept all pending invitations or specify a number of invitations to accept. This tool is designed to save time and streamline your LinkedIn networking experience.</p>
+<p>[View Project](https://github.com/raveshrawal/LinkedIn-Invitation-Acceptor)</p>
+
+
+<hr>
+
+<h2 id="experience">💼 Experience</h2>
+
+<h3 id="freelance">💻 Freelance WordPress Website Developer</h3>
+<p><strong>November 2021 – Present</strong></p>
+<ul>
+  <li>Delivered 40+ responsive, SEO-optimized WordPress websites across education, real estate, healthcare, and e-commerce sectors.</li>
+  <li>Managed the full deployment cycle: domain, DNS, email, SSL, backups, and performance optimization.</li>
+</ul>
+
+<h4>Notable Projects:</h4>
+<ul>
+  <li><a href="https://christmashillofficecleaning.ca/">🎄 Christmas Hill Office Cleaning</a></li>
+  <li><a href="https://hevive11consultancy.co.in/">💼 Hevive 11 Consultancy</a></li>
+  <li><a href="https://virtuoso.services/">🎶 Virtuoso Services</a></li>
+  <li><a href="https://towncountryenterprises.ca/">🏠 Town Country Enterprises</a></li>
+  <li><a href="https://slbm.ca/">🏢 SLBM</a></li>
+  <li><a href="https://foreverpetsfuneral.ca/">🐾 Forever Pets Funeral</a></li>
+  <li><a href="https://aerovista.in/">✈️ AeroVista</a></li>
+  <li><a href="https://www.melodyoflife.in/">🎵 Melody of Life</a></li>
+  <li><a href="https://apnavista.com/">🌍 Apna Vista</a></li>
+  <li><a href="https://sffiglobal.com/">🌍 SFFI Global</a></li>
+  <li><a href="https://thethrillingbites.com/">🍽️ The Thrilling Bites</a></li>
+  <li>...and many more!</li>
+</ul>
+
+<hr>
 
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
