@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Ravesh Rawal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast+(Java);Gen AI;WordPress+Expert;SEO+Strategist;MERN (Full-Stack+Developer);Ethical+Hacking+Learner&center=true&width=1000&height=50&font=Fira+Code&pause=500&color=00C4CC&vCenter=true">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast+%28Java%29;Gen+AI;WordPress+Expert;SEO+Strategist;MERN+Full-Stack+Developer;Ethical+Hacking+Learner&center=true&width=1000&height=50&font=Fira+Code&pause=500&color=00C4CC&vCenter=true">
 
 </p>
 <hr>
-<h4 align="center">I am pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <hr>
 <h2 id="-streak-stats">🔥 Streak Stats</h2>
 <div align="center">
