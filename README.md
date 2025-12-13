@@ -194,7 +194,6 @@
 
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
-  <a href="https://raveshrawal.news/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"></a>
 	<a href="mailto:raveshrawal@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a>
 	<a href="https://github.com/raveshrawal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"></a>
 	<a href="https://in.linkedin.com/in/raveshrawal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
