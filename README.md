@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ravesh Rawal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast+%28Java%29;Gen+AI;WordPress+Expert;SEO+Strategist;MERN+Full-Stack+Developer;Ethical+Hacking+Learner&center=true&width=1000&height=50&font=Fira+Code&pause=500&color=00C4CC&vCenter=true">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast+%28Java%29;Java+Backend+Engineer;&center=true&width=1000&height=50&font=Fira+Code&pause=500&color=00C4CC&vCenter=true">
 
 </p>
 <hr>
